@@ -1,0 +1,11 @@
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\SharedLibrary\bin\Release\net9.0\SharedLibrary.deps.json
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\SharedLibrary\bin\Release\net9.0\SharedLibrary.dll
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\SharedLibrary\bin\Release\net9.0\SharedLibrary.pdb
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\SharedLibrary\obj\Release\net9.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\SharedLibrary\obj\Release\net9.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\SharedLibrary\obj\Release\net9.0\SharedLibrary.AssemblyInfo.cs
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\SharedLibrary\obj\Release\net9.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\SharedLibrary\obj\Release\net9.0\SharedLibrary.dll
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\SharedLibrary\obj\Release\net9.0\refint\SharedLibrary.dll
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\SharedLibrary\obj\Release\net9.0\SharedLibrary.pdb
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\SharedLibrary\obj\Release\net9.0\ref\SharedLibrary.dll

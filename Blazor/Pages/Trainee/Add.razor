@@ -1,0 +1,107 @@
+﻿@page "/Trainee/Add"
+
+<h3>Create Trainee</h3>
+<hr />
+
+
+<EditForm Model="trainee" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator></DataAnnotationsValidator>
+    <ValidationSummary></ValidationSummary>
+
+    <div class="mb-3">
+        <label class="form-label">Name</label>
+        <InputText class="form-control" @bind-Value="trainee.Name" />
+        <ValidationMessage For="@(() => trainee.Name)" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Gender</label>
+        <InputSelect class="form-control" @bind-Value="trainee.Gender">
+            @foreach (var gender in Enum.GetValues<Gender>())
+            {
+                <option value="@gender">@gender</option>
+            }
+        </InputSelect>
+        <ValidationMessage For="@(() => trainee.Gender)" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Email</label>
+        <InputText class="form-control" @bind-Value="trainee.Email" />
+        <ValidationMessage For="@(() => trainee.Email)" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Mobile</label>
+        <InputText class="form-control" @bind-Value="trainee.Mobile" />
+        <ValidationMessage For="@(() => trainee.Mobile)" />
+    </div>
+    
+    <div class="mb-3">
+        <label class="form-label">Birthdate</label>
+        <InputDate @bind-Value="trainee.Birthdate" class="form-control" />
+        <ValidationMessage For="@(() => trainee.Birthdate)" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">IsGraduated</label>
+        <InputCheckbox class="form-check-input" @bind-Value="trainee.IsGraduated" />
+        <ValidationMessage For="@(() => trainee.IsGraduated)" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Track</label>
+        <InputSelect id="track" class="form-control" @bind-Value="@trainee.TrackID">
+            @if (tracks != null)
+            {
+                @foreach (var track in tracks)
+                {
+                    <option value="@track.Id">@track.Name</option>
+                }
+            }
+        </InputSelect>
+    </div>
+
+    <button class="btn btn-primary px-4 py-2" type="submit">Create</button>
+
+    <a href="/Trainee/GetAll" class="btn btn-secondary px-4 py-2">
+        <i class="fas fa-arrow-left me-2"></i>Back
+    </a>
+</EditForm>
+
+
+@if (message != null)
+{
+    <div class="alert alert-info mt-3">@message</div>
+}
+
+
+@code {
+    private Trainee trainee = new();
+    private List<SharedLibrary.Models.Track>? tracks;
+    private string? message;
+
+    [Inject] private TraineeApi TraineeApi { get; set; }
+    [Inject] private TrackApi? TrackApi { get; set; }
+    [Inject] private NavigationManager Nav { get; set; }
+
+
+    private async Task HandleValidSubmit()
+    {
+        var response = await TraineeApi.AddTraineeAsync(trainee);
+
+        if (response.IsSuccessStatusCode)
+        {
+            message = "Trainee created successfully!";
+            Nav.NavigateTo("/Trainee/GetAll");
+        }
+        else
+            message = $"Failed to create trainee. ({response.StatusCode})";
+    }
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        tracks = await TrackApi.GetAllTracksAsync();
+    }
+}

@@ -1,0 +1,52 @@
+﻿@page "/Trainee/GetAll"
+
+
+<h3>All Trainees</h3>
+<hr />
+
+@if (trainees == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <a href="/Trainee/Add" class="btn btn-primary mb-2">Create New Trainee</a>
+
+    <table class="table table-dark table-hover text-center">
+        <thead>
+            <tr>
+                <th>Trainee ID</th>
+                <th>Name</th>
+                <th>Gender</th>
+                <th>Email</th>
+                <th>Mobile</th>
+                <th>Birthdate</th>
+                <th>IsGraduated</th>
+                <th>Track</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var trainee in trainees)
+            {
+                <tr>
+                    <td>@trainee.Id</td>
+                    <td>@trainee.Name</td>
+                    <td>@trainee.Gender</td>
+                    <td>@trainee.Email</td>
+                    <td>@trainee.Mobile</td>
+                    <td>@trainee.Birthdate</td>
+                    <td>@trainee.IsGraduated</td>
+                    <td>@trainee.Track</td>
+
+                    <td>
+                        <a href=@($"/Trainee/Details/{trainee.Id}") class="btn btn-light">Details</a>
+                        <a href=@($"/Trainee/Edit/{trainee.Id}") class ="btn btn-warning">Edit</a>
+                        <a class="btn btn-danger" @onclick="() => DeleteTrainee(trainee.Id)">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

@@ -1,0 +1,67 @@
+﻿@page "/Track/Edit/{id:int}"
+
+<h3>Edit Track</h3>
+<hr />
+
+<EditForm Model="track" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator></DataAnnotationsValidator>
+    <ValidationSummary></ValidationSummary>
+
+    <div class="mb-3">
+        <label class="form-label">Name</label>
+        <InputText class="form-control" @bind-Value="track.Name" />
+        <ValidationMessage For="@(() => track.Name)" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Description</label>
+        <InputText class="form-control" @bind-Value="track.Description" />
+        <ValidationMessage For="@(() => track.Description)" />
+    </div>
+
+    <button class="btn btn-primary px-4 py-2" type="submit">Save</button>
+
+    <a href="/Track/GetAll" class="btn btn-secondary px-4 py-2">
+        <i class="fas fa-arrow-left me-2"></i>Back
+    </a>
+</EditForm>
+
+@if (message != null)
+{
+    <div class="alert alert-info mt-3">@message</div>
+}
+
+@code {
+    [Parameter] public int id { get; set; }
+
+    private Track track = new();
+    private string? message;
+
+    [Inject] private TrackApi TrackApi { get; set; }
+    [Inject] private NavigationManager Nav { get; set; }
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        track = await TrackApi.GetTrackAsync(id);
+        await TrackApi.EditTrackAsync(track);
+
+        if (track != null)
+            await TrackApi.EditTrackAsync(track);
+        else
+            message = "Track not found.";
+    }
+
+
+    private async Task HandleValidSubmit()
+    {
+        var response = await TrackApi.EditTrackAsync(track);
+        if (response.IsSuccessStatusCode)
+        {
+            message = "Track updated successfully!";
+            Nav.NavigateTo("/Track/GetAll");
+        }
+        else
+            message = $"Failed to update track. ({response.StatusCode})";
+    }
+}

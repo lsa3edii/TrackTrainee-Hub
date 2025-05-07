@@ -1,0 +1,150 @@
+[
+  {
+    "ContainingType": "Services.Controllers.TrackController",
+    "Method": "Add",
+    "RelativePath": "api/Track/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "track",
+        "Type": "SharedLibrary.Models.Track",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Services.Controllers.TrackController",
+    "Method": "Delete",
+    "RelativePath": "api/Track/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Services.Controllers.TrackController",
+    "Method": "Edit",
+    "RelativePath": "api/Track/Edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "track",
+        "Type": "SharedLibrary.Models.Track",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Services.Controllers.TrackController",
+    "Method": "GetAll",
+    "RelativePath": "api/Track/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Services.Controllers.TrackController",
+    "Method": "GetByID",
+    "RelativePath": "api/Track/GetByID/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Services.Controllers.TraineeController",
+    "Method": "Add",
+    "RelativePath": "api/Trainee/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainee",
+        "Type": "SharedLibrary.Models.Trainee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Services.Controllers.TraineeController",
+    "Method": "Delete",
+    "RelativePath": "api/Trainee/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Services.Controllers.TraineeController",
+    "Method": "Edit",
+    "RelativePath": "api/Trainee/Edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainee",
+        "Type": "SharedLibrary.Models.Trainee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Services.Controllers.TraineeController",
+    "Method": "GetAll",
+    "RelativePath": "api/Trainee/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Services.Controllers.TraineeController",
+    "Method": "GetByID",
+    "RelativePath": "api/Trainee/GetByID/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,43 @@
+﻿@page "/"
+@page "/Track/GetAll"
+
+
+<h3>All Tracks</h3>
+<hr />
+
+@if (tracks == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <a href="/Track/Add" class="btn btn-primary mb-2">Create New Track</a>
+
+    <table class="table table-dark table-hover text-center">
+        <thead>
+            <tr>
+                <th>Track ID</th>
+                <th>Track Name</th>
+                <th>Track Description</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var track in tracks)
+            {
+                <tr>
+                    <td>@track.Id</td>
+                    <td>@track.Name</td>
+                    <td>@track.Description</td>
+
+                    <td>
+                        <a href=@($"/Track/Details/{track.Id}") class="btn btn-light">Details</a>
+                        <a href=@($"/Track/Edit/{track.Id}") class="btn btn-warning">Edit</a>
+                        <a class="btn btn-danger" @onclick="() => DeleteTrack(track.Id)">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
