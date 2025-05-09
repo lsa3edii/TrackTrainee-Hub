@@ -27,8 +27,8 @@ namespace Services.Controllers
         {
             var trainees = _traineeRepo.GetAll();
 
-            if (!trainees.Any())
-                return NotFound("No trainees found.");
+            //if (!trainees.Any())
+            //    return NotFound("No trainees found.");
 
             return Ok(trainees.Select(trainee => new TraineeDTO(trainee)).ToList());
         }

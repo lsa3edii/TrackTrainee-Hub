@@ -26,8 +26,8 @@ namespace Services.Controllers
         {
             var tracks = _trackRepo.GetAll();
 
-            if (!tracks.Any())
-                return NotFound("No tracks found.");
+            //if (!tracks.Any())
+            //    return NotFound("No tracks found.");
 
             return Ok(tracks.Select(track => new TrackDTO(track)));
         }
