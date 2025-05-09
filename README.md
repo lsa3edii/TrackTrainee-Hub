@@ -1,6 +1,7 @@
 # TrackTrainee-Hub
 TrackTrainee-Hub is designed to demonstrate the implementation of a full-stack CRUD-based trainee management system. This solution showcases clean architecture, API integration, and the use of Blazor for building modern web applications.
 
+
 ## Overview
 This solution is composed of three core projects:
 
@@ -18,8 +19,9 @@ This solution is composed of three core projects:
    - Ensures consistency and reusability across the solution.
    - Facilitates seamless communication between the Blazor frontend and the backend API.
 
+
 ## Technologies Used
 - **C#**
 - **ASP.NET Core APIs**
-- **Entit Framework**
+- **Entity Framework**
 - **Blazor**
