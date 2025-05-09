@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Run All",
+    "Projects": [
+      {
+        "Path": "Services\\Services.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "Blazor\\Blazor.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]

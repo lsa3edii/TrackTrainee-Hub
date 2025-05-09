@@ -1,6 +1,4 @@
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.v4trkx6r0u.pdb
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.ezcw08txe2.wasm
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\dotnet.js
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.map
@@ -40,8 +38,8 @@ D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.w69ya3jgm7.wasm
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\mscorlib.wzkfrp7u5k.wasm
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\netstandard.d82br99ghv.wasm
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\SharedLibrary.pgsthyj2e3.pdb
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\SharedLibrary.cdycvldfr5.wasm
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\SharedLibrary.5vtqt6yg0k.pdb
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\SharedLibrary.822rgbtole.wasm
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.AppContext.brstoo7rmv.wasm
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Buffers.y31fti4j86.wasm
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Collections.Concurrent.kb0mdoldj7.wasm
@@ -244,7 +242,7 @@ D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.TypeConverter.z1ha3dnoj6.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.vwqkwew761.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Xml.Serialization.5qbg7na7wv.wasm.gz
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\SharedLibrary.pgsthyj2e3.pdb.gz
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\SharedLibrary.5vtqt6yg0k.pdb.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Net.Requests.vg192fvph6.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.ii4hsghias.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
@@ -336,7 +334,7 @@ D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XmlSerializer.uarlhvhlht.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Windows.130fpeggo5.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Data.Common.iw2jx9afvs.wasm.gz
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\SharedLibrary.cdycvldfr5.wasm.gz
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\SharedLibrary.822rgbtole.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.w69ya3jgm7.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Collections.Concurrent.kb0mdoldj7.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Handles.3pucd7hj4u.wasm.gz
@@ -385,7 +383,6 @@ D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\WindowsBase.5lai2eowco.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Configuration.9b3tsnu5yx.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.TraceSource.ffvt4nhdjw.wasm.gz
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.v4trkx6r0u.pdb.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Xml.Linq.vpe12reu9r.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Net.Http.Json.2p5w4oxe0m.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Net.HttpListener.g1z5na32ay.wasm.gz
@@ -409,7 +406,6 @@ D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Web.HttpUtility.13lb3w228t.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Globalization.Extensions.hal5qdz64m.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Thread.cxq9cadks4.wasm.gz
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.ezcw08txe2.wasm.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\Blazor.staticwebassets.runtime.json
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\Blazor.staticwebassets.endpoints.json
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\Blazor.dll
@@ -1071,11 +1067,8 @@ D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\itsr02yzkm-tjcz0u77k5.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\jquf587rsw-tptq2av103.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\7gnbzwaq31-lfu7j35m59.gz
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\ofk77i7f1a-cdycvldfr5.gz
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\6ps80mpnmv-pgsthyj2e3.gz
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\zxnfmdmcxx-ezcw08txe2.gz
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\vzbwen8neo-v4trkx6r0u.gz
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\peinipbwwh-otijua6pyy.gz
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\ofk77i7f1a-822rgbtole.gz
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\6ps80mpnmv-5vtqt6yg0k.gz
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\staticwebassets.build.json
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\staticwebassets.development.json
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1085,9 +1078,16 @@ D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Blazor.props
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Blazor.props
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\staticwebassets.pack.json
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\Blazor.csproj.Up2Date
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\Blazor.dll
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\refint\Blazor.dll
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\Blazor.pdb
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\ref\Blazor.dll
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.u4g3qshrzu.pdb
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.4foeqwsmuw.wasm
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.u4g3qshrzu.pdb.gz
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.4foeqwsmuw.wasm.gz
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\zxnfmdmcxx-4foeqwsmuw.gz
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\vzbwen8neo-u4g3qshrzu.gz
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\peinipbwwh-07r71wtcfa.gz

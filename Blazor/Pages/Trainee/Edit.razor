@@ -43,8 +43,8 @@
     </div>
 
     <div class="mb-3">
-        <label class="form-label">IsGraduated: </label>
-        <InputCheckbox class="form-check-input" @bind-Value="trainee.IsGraduated" />
+        <label class="form-label">IsGraduated? </label>
+        <InputCheckbox class="form-check-input border-primary" @bind-Value="trainee.IsGraduated" />
         <ValidationMessage For="@(() => trainee.IsGraduated)" />
     </div>
 
@@ -122,8 +122,6 @@
             Nav.NavigateTo("/Trainee/GetAll");
         }
         else
-        {
             message = $"Failed to update trainee. ({response.StatusCode})";
-        }
     }
 }

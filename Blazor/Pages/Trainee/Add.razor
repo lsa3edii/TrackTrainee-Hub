@@ -44,8 +44,8 @@
     </div>
 
     <div class="mb-3">
-        <label class="form-label">IsGraduated</label>
-        <InputCheckbox class="form-check-input" @bind-Value="trainee.IsGraduated" />
+        <label class="form-label">IsGraduated? </label>
+        <InputCheckbox class="form-check-input border-primary" @bind-Value="trainee.IsGraduated" />
         <ValidationMessage For="@(() => trainee.IsGraduated)" />
     </div>
 
@@ -103,5 +103,8 @@
     protected override async Task OnInitializedAsync()
     {
         tracks = await TrackApi.GetAllTracksAsync();
+
+        if (tracks.Any())
+            trainee.TrackID = tracks.FirstOrDefault().Id;
     }
 }

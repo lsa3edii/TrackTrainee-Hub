@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Blazor",
   "resources": {
-    "hash": "sha256-wG3D1VNk+DAou0AdSA4gCSwbFCpdC5zpDMGALkLuT+g=",
+    "hash": "sha256-BMjTXmLqcDx+1X8IlrDu+/KFRU1JEs2wpdrsDdknOcY=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.gf26ou9jj9.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.v3fd2n5hlr.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,10 +201,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "SharedLibrary.cdycvldfr5.wasm": "SharedLibrary.wasm",
-      "SharedLibrary.pgsthyj2e3.pdb": "SharedLibrary.pdb",
-      "Blazor.ezcw08txe2.wasm": "Blazor.wasm",
-      "Blazor.v4trkx6r0u.pdb": "Blazor.pdb"
+      "SharedLibrary.822rgbtole.wasm": "SharedLibrary.wasm",
+      "SharedLibrary.5vtqt6yg0k.pdb": "SharedLibrary.pdb",
+      "Blazor.4foeqwsmuw.wasm": "Blazor.wasm",
+      "Blazor.u4g3qshrzu.pdb": "Blazor.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hvg7u8bimp.js": "sha256-LX9rFEWGVxhkOkAVPG0w5RxPwzPBlEUz6dQNjWS7M+M="
@@ -414,12 +414,12 @@
       "WindowsBase.5lai2eowco.wasm": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM=",
       "mscorlib.wzkfrp7u5k.wasm": "sha256-9PjsU0gaxxz5Vyw++p9DeYUWLsaXbaMS2RbX6wmTUmk=",
       "netstandard.d82br99ghv.wasm": "sha256-DS8keXxU4eQpa1kIoiFxOA2Ii2g9hoNWSaVi8F8AnIE=",
-      "SharedLibrary.cdycvldfr5.wasm": "sha256-ALyLru9qzjRytozeqlrbvaM5eICwR5VsiGlGj+DzwPE=",
-      "Blazor.ezcw08txe2.wasm": "sha256-ujmt7s/gmd1eRieT3x8RDoRPaSRjJ7GDKz/qLxBn6M0="
+      "SharedLibrary.822rgbtole.wasm": "sha256-0NC1iLzyXKzJZGX9zhmSgZzSBDJ8UiAYKMdJRQyPAl4=",
+      "Blazor.4foeqwsmuw.wasm": "sha256-4HKZB3KhB+mL+8uCo6HsDnd1r/DlK+WUP+HGtv+7WzQ="
     },
     "pdb": {
-      "SharedLibrary.pgsthyj2e3.pdb": "sha256-p6HYwj18PUPjeh/BfzzKxTSOV8bkL1UF/fR8LgoPn28=",
-      "Blazor.v4trkx6r0u.pdb": "sha256-P6R261pFLTAGkEBM+ZNwki/9nDCIxYq5J9Ilvcnm6Bw="
+      "SharedLibrary.5vtqt6yg0k.pdb": "sha256-T7Hx/C6yCSiQDtC+EqGGhaCOv3zxWPFdQ1q0peCgfDw=",
+      "Blazor.u4g3qshrzu.pdb": "sha256-bo6CIBwOlIcmcAvRwRAsOeUxTv+hadqwtaIbA5ukiEo="
     }
   },
   "cacheBootResources": true,
