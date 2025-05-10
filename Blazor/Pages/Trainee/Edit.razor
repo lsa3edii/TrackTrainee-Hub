@@ -92,6 +92,7 @@
         tracks = await TrackApi!.GetAllTracksAsync();
         traineeDTO = await TraineeApi.GetTraineeAsync(id);
 
+
         if (traineeDTO is not null)
         {
             trainee = new Trainee
@@ -109,6 +110,9 @@
         else
             trainee = new();
 
+
+        if (tracks.Any() && trainee.TrackID == null)
+            trainee.TrackID = tracks.FirstOrDefault().Id;
     }
 
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "72/o+tabWRukS2UyX6pxTAgRPfDiwlvwlM7K9EIPdZM=",
+  "Hash": "teamuAE7exA/SLrbFiQ6ZBfMFw9j32OmpSAWkNHjioo=",
   "Source": "Blazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "07r71wtcfa",
-      "Integrity": "lIkFqNPA2WrCXBidCkoNGKNy7eFy5lExmSRu6iIIff8=",
+      "Fingerprint": "uq0i26x462",
+      "Integrity": "Rv7HaD4kyMMyDnwvPLlECV62eEyqYswyqBB1Gx/VnY8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "u4g3qshrzu",
-      "Integrity": "bo6CIBwOlIcmcAvRwRAsOeUxTv+hadqwtaIbA5ukiEo=",
+      "Fingerprint": "04xv62z0jg",
+      "Integrity": "oAg4Fk5TWCWT8YAVykL6kW9K4Eo9jkKO13fheUJ5qUs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\Blazor.pdb"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "4foeqwsmuw",
-      "Integrity": "4HKZB3KhB+mL+8uCo6HsDnd1r/DlK+WUP+HGtv+7WzQ=",
+      "Fingerprint": "ue3be69pbr",
+      "Integrity": "+qOuewRiq+XH9yl1AHUNYQblKt86A1woFPgykFAfouE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\webcil\\Blazor.wasm"
@@ -8081,7 +8081,7 @@
       "OriginalItemSpec": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.FileSystem.AccessControl.wasm"
     },
     {
-      "Identity": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\peinipbwwh-07r71wtcfa.gz",
+      "Identity": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\peinipbwwh-uq0i26x462.gz",
       "SourceId": "Blazor",
       "SourceType": "Computed",
       "ContentRoot": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\",
@@ -8095,8 +8095,8 @@
       "RelatedAsset": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ttk5cumonz",
-      "Integrity": "T+OEZ3UtVRS+AzopAFMzp47dpm8TGxAjItEQcU4nXh4=",
+      "Fingerprint": "g09gvn3bj1",
+      "Integrity": "YEPEGmbyNJzLVluEhbMy3cqOlSsHz/Cn34l7ybrT6gg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -9026,12 +9026,12 @@
       "OriginalItemSpec": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Diagnostics.TraceSource.wasm"
     },
     {
-      "Identity": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\vzbwen8neo-u4g3qshrzu.gz",
+      "Identity": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\vzbwen8neo-04xv62z0jg.gz",
       "SourceId": "Blazor",
       "SourceType": "Computed",
       "ContentRoot": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Blazor#[.{fingerprint=u4g3qshrzu}]!.pdb.gz",
+      "RelativePath": "_framework/Blazor#[.{fingerprint=04xv62z0jg}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9040,8 +9040,8 @@
       "RelatedAsset": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Blazor.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ljikyfvmfa",
-      "Integrity": "H/e2CTJSNIn/9DcboKY2U55YyG5D+MJsu8POCEDKUf8=",
+      "Fingerprint": "whku43lb96",
+      "Integrity": "RENWoKoaVCpAYbx6VBhxFhAX2abYt9IiOp703lDAVVs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Blazor.pdb"
@@ -9677,12 +9677,12 @@
       "OriginalItemSpec": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Thread.wasm"
     },
     {
-      "Identity": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\zxnfmdmcxx-4foeqwsmuw.gz",
+      "Identity": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\zxnfmdmcxx-ue3be69pbr.gz",
       "SourceId": "Blazor",
       "SourceType": "Computed",
       "ContentRoot": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Blazor#[.{fingerprint=4foeqwsmuw}]!.wasm.gz",
+      "RelativePath": "_framework/Blazor#[.{fingerprint=ue3be69pbr}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9691,8 +9691,8 @@
       "RelatedAsset": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Blazor.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5948wk8j9r",
-      "Integrity": "ifeKhh22V+p0N3SU7iy3q0cpPsIa1RAwU+piyi/CJyU=",
+      "Fingerprint": "vqkprwbztl",
+      "Integrity": "ud/r74gIcfq3i07G2VYKTvlT3zzLlBzwPn4WvmouzZ8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Blazor.wasm"
@@ -10771,8 +10771,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "_framework/Blazor.4foeqwsmuw.wasm",
-      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Blazor.wasm",
+      "Route": "_framework/Blazor.04xv62z0jg.pdb",
+      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Blazor.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10781,19 +10781,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "60693"
+          "Value": "46316"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"4HKZB3KhB+mL+8uCo6HsDnd1r/DlK+WUP+HGtv+7WzQ=\""
+          "Value": "\"oAg4Fk5TWCWT8YAVykL6kW9K4Eo9jkKO13fheUJ5qUs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:10:14 GMT"
+          "Value": "Sat, 10 May 2025 00:12:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10803,26 +10803,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4foeqwsmuw"
+          "Value": "04xv62z0jg"
         },
         {
           "Name": "label",
-          "Value": "_framework/Blazor.wasm"
+          "Value": "_framework/Blazor.pdb"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4HKZB3KhB+mL+8uCo6HsDnd1r/DlK+WUP+HGtv+7WzQ="
+          "Value": "sha256-oAg4Fk5TWCWT8YAVykL6kW9K4Eo9jkKO13fheUJ5qUs="
         }
       ]
     },
     {
-      "Route": "_framework/Blazor.4foeqwsmuw.wasm",
-      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\zxnfmdmcxx-4foeqwsmuw.gz",
+      "Route": "_framework/Blazor.04xv62z0jg.pdb",
+      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\vzbwen8neo-04xv62z0jg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000049714144"
+          "Quality": "0.000028024550"
         }
       ],
       "ResponseHeaders": [
@@ -10832,15 +10832,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20114"
+          "Value": "35682"
         },
         {
           "Name": "ETag",
-          "Value": "\"ifeKhh22V+p0N3SU7iy3q0cpPsIa1RAwU+piyi/CJyU=\""
+          "Value": "\"RENWoKoaVCpAYbx6VBhxFhAX2abYt9IiOp703lDAVVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:10:14 GMT"
+          "Value": "Sat, 10 May 2025 00:12:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10856,31 +10856,31 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4HKZB3KhB+mL+8uCo6HsDnd1r/DlK+WUP+HGtv+7WzQ=\""
+          "Value": "W/\"oAg4Fk5TWCWT8YAVykL6kW9K4Eo9jkKO13fheUJ5qUs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4foeqwsmuw"
+          "Value": "04xv62z0jg"
         },
         {
           "Name": "label",
-          "Value": "_framework/Blazor.wasm"
+          "Value": "_framework/Blazor.pdb"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4HKZB3KhB+mL+8uCo6HsDnd1r/DlK+WUP+HGtv+7WzQ="
+          "Value": "sha256-oAg4Fk5TWCWT8YAVykL6kW9K4Eo9jkKO13fheUJ5qUs="
         }
       ]
     },
     {
-      "Route": "_framework/Blazor.4foeqwsmuw.wasm.gz",
-      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\zxnfmdmcxx-4foeqwsmuw.gz",
+      "Route": "_framework/Blazor.04xv62z0jg.pdb.gz",
+      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\vzbwen8neo-04xv62z0jg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10889,19 +10889,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20114"
+          "Value": "35682"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"ifeKhh22V+p0N3SU7iy3q0cpPsIa1RAwU+piyi/CJyU=\""
+          "Value": "\"RENWoKoaVCpAYbx6VBhxFhAX2abYt9IiOp703lDAVVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:10:14 GMT"
+          "Value": "Sat, 10 May 2025 00:12:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10919,15 +10919,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4foeqwsmuw"
+          "Value": "04xv62z0jg"
         },
         {
           "Name": "label",
-          "Value": "_framework/Blazor.wasm.gz"
+          "Value": "_framework/Blazor.pdb.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ifeKhh22V+p0N3SU7iy3q0cpPsIa1RAwU+piyi/CJyU="
+          "Value": "sha256-RENWoKoaVCpAYbx6VBhxFhAX2abYt9IiOp703lDAVVs="
         }
       ]
     },
@@ -10950,11 +10950,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lIkFqNPA2WrCXBidCkoNGKNy7eFy5lExmSRu6iIIff8=\""
+          "Value": "\"Rv7HaD4kyMMyDnwvPLlECV62eEyqYswyqBB1Gx/VnY8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:38:36 GMT"
+          "Value": "Sat, 10 May 2025 00:12:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10964,18 +10964,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lIkFqNPA2WrCXBidCkoNGKNy7eFy5lExmSRu6iIIff8="
+          "Value": "sha256-Rv7HaD4kyMMyDnwvPLlECV62eEyqYswyqBB1Gx/VnY8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\peinipbwwh-07r71wtcfa.gz",
+      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\peinipbwwh-uq0i26x462.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080166747"
+          "Quality": "0.000080179602"
         }
       ],
       "ResponseHeaders": [
@@ -10985,15 +10985,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12473"
+          "Value": "12471"
         },
         {
           "Name": "ETag",
-          "Value": "\"T+OEZ3UtVRS+AzopAFMzp47dpm8TGxAjItEQcU4nXh4=\""
+          "Value": "\"YEPEGmbyNJzLVluEhbMy3cqOlSsHz/Cn34l7ybrT6gg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:10:14 GMT"
+          "Value": "Sat, 10 May 2025 00:09:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11013,19 +11013,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lIkFqNPA2WrCXBidCkoNGKNy7eFy5lExmSRu6iIIff8=\""
+          "Value": "W/\"Rv7HaD4kyMMyDnwvPLlECV62eEyqYswyqBB1Gx/VnY8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lIkFqNPA2WrCXBidCkoNGKNy7eFy5lExmSRu6iIIff8="
+          "Value": "sha256-Rv7HaD4kyMMyDnwvPLlECV62eEyqYswyqBB1Gx/VnY8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\peinipbwwh-07r71wtcfa.gz",
+      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\peinipbwwh-uq0i26x462.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11034,7 +11034,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12473"
+          "Value": "12471"
         },
         {
           "Name": "Content-Type",
@@ -11042,11 +11042,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"T+OEZ3UtVRS+AzopAFMzp47dpm8TGxAjItEQcU4nXh4=\""
+          "Value": "\"YEPEGmbyNJzLVluEhbMy3cqOlSsHz/Cn34l7ybrT6gg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:10:14 GMT"
+          "Value": "Sat, 10 May 2025 00:09:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11064,7 +11064,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-T+OEZ3UtVRS+AzopAFMzp47dpm8TGxAjItEQcU4nXh4="
+          "Value": "sha256-YEPEGmbyNJzLVluEhbMy3cqOlSsHz/Cn34l7ybrT6gg="
         }
       ]
     },
@@ -11079,7 +11079,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "46260"
+          "Value": "46316"
         },
         {
           "Name": "Content-Type",
@@ -11087,11 +11087,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bo6CIBwOlIcmcAvRwRAsOeUxTv+hadqwtaIbA5ukiEo=\""
+          "Value": "\"oAg4Fk5TWCWT8YAVykL6kW9K4Eo9jkKO13fheUJ5qUs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:38:35 GMT"
+          "Value": "Sat, 10 May 2025 00:12:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11101,18 +11101,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bo6CIBwOlIcmcAvRwRAsOeUxTv+hadqwtaIbA5ukiEo="
+          "Value": "sha256-oAg4Fk5TWCWT8YAVykL6kW9K4Eo9jkKO13fheUJ5qUs="
         }
       ]
     },
     {
       "Route": "_framework/Blazor.pdb",
-      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\vzbwen8neo-u4g3qshrzu.gz",
+      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\vzbwen8neo-04xv62z0jg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000028106467"
+          "Quality": "0.000028024550"
         }
       ],
       "ResponseHeaders": [
@@ -11122,15 +11122,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35578"
+          "Value": "35682"
         },
         {
           "Name": "ETag",
-          "Value": "\"H/e2CTJSNIn/9DcboKY2U55YyG5D+MJsu8POCEDKUf8=\""
+          "Value": "\"RENWoKoaVCpAYbx6VBhxFhAX2abYt9IiOp703lDAVVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:38:36 GMT"
+          "Value": "Sat, 10 May 2025 00:12:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11150,19 +11150,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bo6CIBwOlIcmcAvRwRAsOeUxTv+hadqwtaIbA5ukiEo=\""
+          "Value": "W/\"oAg4Fk5TWCWT8YAVykL6kW9K4Eo9jkKO13fheUJ5qUs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bo6CIBwOlIcmcAvRwRAsOeUxTv+hadqwtaIbA5ukiEo="
+          "Value": "sha256-oAg4Fk5TWCWT8YAVykL6kW9K4Eo9jkKO13fheUJ5qUs="
         }
       ]
     },
     {
       "Route": "_framework/Blazor.pdb.gz",
-      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\vzbwen8neo-u4g3qshrzu.gz",
+      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\vzbwen8neo-04xv62z0jg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11171,7 +11171,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35578"
+          "Value": "35682"
         },
         {
           "Name": "Content-Type",
@@ -11179,11 +11179,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H/e2CTJSNIn/9DcboKY2U55YyG5D+MJsu8POCEDKUf8=\""
+          "Value": "\"RENWoKoaVCpAYbx6VBhxFhAX2abYt9IiOp703lDAVVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:38:36 GMT"
+          "Value": "Sat, 10 May 2025 00:12:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11201,13 +11201,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H/e2CTJSNIn/9DcboKY2U55YyG5D+MJsu8POCEDKUf8="
+          "Value": "sha256-RENWoKoaVCpAYbx6VBhxFhAX2abYt9IiOp703lDAVVs="
         }
       ]
     },
     {
-      "Route": "_framework/Blazor.u4g3qshrzu.pdb",
-      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Blazor.pdb",
+      "Route": "_framework/Blazor.ue3be69pbr.wasm",
+      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Blazor.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11216,19 +11216,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "46260"
+          "Value": "60693"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/octet-stream"
+          "Value": "application/wasm"
         },
         {
           "Name": "ETag",
-          "Value": "\"bo6CIBwOlIcmcAvRwRAsOeUxTv+hadqwtaIbA5ukiEo=\""
+          "Value": "\"+qOuewRiq+XH9yl1AHUNYQblKt86A1woFPgykFAfouE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:38:35 GMT"
+          "Value": "Sat, 10 May 2025 00:12:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11238,26 +11238,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u4g3qshrzu"
+          "Value": "ue3be69pbr"
         },
         {
           "Name": "label",
-          "Value": "_framework/Blazor.pdb"
+          "Value": "_framework/Blazor.wasm"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bo6CIBwOlIcmcAvRwRAsOeUxTv+hadqwtaIbA5ukiEo="
+          "Value": "sha256-+qOuewRiq+XH9yl1AHUNYQblKt86A1woFPgykFAfouE="
         }
       ]
     },
     {
-      "Route": "_framework/Blazor.u4g3qshrzu.pdb",
-      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\vzbwen8neo-u4g3qshrzu.gz",
+      "Route": "_framework/Blazor.ue3be69pbr.wasm",
+      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\zxnfmdmcxx-ue3be69pbr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000028106467"
+          "Quality": "0.000049583499"
         }
       ],
       "ResponseHeaders": [
@@ -11267,15 +11267,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35578"
+          "Value": "20167"
         },
         {
           "Name": "ETag",
-          "Value": "\"H/e2CTJSNIn/9DcboKY2U55YyG5D+MJsu8POCEDKUf8=\""
+          "Value": "\"ud/r74gIcfq3i07G2VYKTvlT3zzLlBzwPn4WvmouzZ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:38:36 GMT"
+          "Value": "Sat, 10 May 2025 00:12:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11291,31 +11291,31 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/octet-stream"
+          "Value": "application/wasm"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bo6CIBwOlIcmcAvRwRAsOeUxTv+hadqwtaIbA5ukiEo=\""
+          "Value": "W/\"+qOuewRiq+XH9yl1AHUNYQblKt86A1woFPgykFAfouE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u4g3qshrzu"
+          "Value": "ue3be69pbr"
         },
         {
           "Name": "label",
-          "Value": "_framework/Blazor.pdb"
+          "Value": "_framework/Blazor.wasm"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bo6CIBwOlIcmcAvRwRAsOeUxTv+hadqwtaIbA5ukiEo="
+          "Value": "sha256-+qOuewRiq+XH9yl1AHUNYQblKt86A1woFPgykFAfouE="
         }
       ]
     },
     {
-      "Route": "_framework/Blazor.u4g3qshrzu.pdb.gz",
-      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\vzbwen8neo-u4g3qshrzu.gz",
+      "Route": "_framework/Blazor.ue3be69pbr.wasm.gz",
+      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\zxnfmdmcxx-ue3be69pbr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11324,19 +11324,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35578"
+          "Value": "20167"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/octet-stream"
+          "Value": "application/wasm"
         },
         {
           "Name": "ETag",
-          "Value": "\"H/e2CTJSNIn/9DcboKY2U55YyG5D+MJsu8POCEDKUf8=\""
+          "Value": "\"ud/r74gIcfq3i07G2VYKTvlT3zzLlBzwPn4WvmouzZ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:38:36 GMT"
+          "Value": "Sat, 10 May 2025 00:12:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11354,15 +11354,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u4g3qshrzu"
+          "Value": "ue3be69pbr"
         },
         {
           "Name": "label",
-          "Value": "_framework/Blazor.pdb.gz"
+          "Value": "_framework/Blazor.wasm.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H/e2CTJSNIn/9DcboKY2U55YyG5D+MJsu8POCEDKUf8="
+          "Value": "sha256-ud/r74gIcfq3i07G2VYKTvlT3zzLlBzwPn4WvmouzZ8="
         }
       ]
     },
@@ -11385,11 +11385,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4HKZB3KhB+mL+8uCo6HsDnd1r/DlK+WUP+HGtv+7WzQ=\""
+          "Value": "\"+qOuewRiq+XH9yl1AHUNYQblKt86A1woFPgykFAfouE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:10:14 GMT"
+          "Value": "Sat, 10 May 2025 00:12:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11399,18 +11399,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4HKZB3KhB+mL+8uCo6HsDnd1r/DlK+WUP+HGtv+7WzQ="
+          "Value": "sha256-+qOuewRiq+XH9yl1AHUNYQblKt86A1woFPgykFAfouE="
         }
       ]
     },
     {
       "Route": "_framework/Blazor.wasm",
-      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\zxnfmdmcxx-4foeqwsmuw.gz",
+      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\zxnfmdmcxx-ue3be69pbr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000049714144"
+          "Quality": "0.000049583499"
         }
       ],
       "ResponseHeaders": [
@@ -11420,15 +11420,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20114"
+          "Value": "20167"
         },
         {
           "Name": "ETag",
-          "Value": "\"ifeKhh22V+p0N3SU7iy3q0cpPsIa1RAwU+piyi/CJyU=\""
+          "Value": "\"ud/r74gIcfq3i07G2VYKTvlT3zzLlBzwPn4WvmouzZ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:10:14 GMT"
+          "Value": "Sat, 10 May 2025 00:12:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11448,19 +11448,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4HKZB3KhB+mL+8uCo6HsDnd1r/DlK+WUP+HGtv+7WzQ=\""
+          "Value": "W/\"+qOuewRiq+XH9yl1AHUNYQblKt86A1woFPgykFAfouE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4HKZB3KhB+mL+8uCo6HsDnd1r/DlK+WUP+HGtv+7WzQ="
+          "Value": "sha256-+qOuewRiq+XH9yl1AHUNYQblKt86A1woFPgykFAfouE="
         }
       ]
     },
     {
       "Route": "_framework/Blazor.wasm.gz",
-      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\zxnfmdmcxx-4foeqwsmuw.gz",
+      "AssetFile": "D:\\ITI\\Professional Development & Business Intelligence-infused CRM\\Blazor\\Day1\\Lab1\\Blazor\\obj\\Debug\\net9.0\\compressed\\zxnfmdmcxx-ue3be69pbr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11469,7 +11469,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20114"
+          "Value": "20167"
         },
         {
           "Name": "Content-Type",
@@ -11477,11 +11477,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ifeKhh22V+p0N3SU7iy3q0cpPsIa1RAwU+piyi/CJyU=\""
+          "Value": "\"ud/r74gIcfq3i07G2VYKTvlT3zzLlBzwPn4WvmouzZ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:10:14 GMT"
+          "Value": "Sat, 10 May 2025 00:12:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11499,7 +11499,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ifeKhh22V+p0N3SU7iy3q0cpPsIa1RAwU+piyi/CJyU="
+          "Value": "sha256-ud/r74gIcfq3i07G2VYKTvlT3zzLlBzwPn4WvmouzZ8="
         }
       ]
     },

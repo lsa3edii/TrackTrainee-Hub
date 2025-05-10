@@ -1084,10 +1084,10 @@ D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\refint\Blazor.dll
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\Blazor.pdb
 D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\ref\Blazor.dll
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.u4g3qshrzu.pdb
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.4foeqwsmuw.wasm
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.u4g3qshrzu.pdb.gz
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.4foeqwsmuw.wasm.gz
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\zxnfmdmcxx-4foeqwsmuw.gz
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\vzbwen8neo-u4g3qshrzu.gz
-D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\peinipbwwh-07r71wtcfa.gz
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.04xv62z0jg.pdb
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.ue3be69pbr.wasm
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.04xv62z0jg.pdb.gz
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\bin\Debug\net9.0\wwwroot\_framework\Blazor.ue3be69pbr.wasm.gz
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\zxnfmdmcxx-ue3be69pbr.gz
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\vzbwen8neo-04xv62z0jg.gz
+D:\ITI\Professional Development & Business Intelligence-infused CRM\Blazor\Day1\Lab1\Blazor\obj\Debug\net9.0\compressed\peinipbwwh-uq0i26x462.gz
